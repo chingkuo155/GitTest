@@ -1,2 +1,3 @@
-open PC_B
-line 2
+PC_B line 1
+PC_B line 2
+PC_B line 3
